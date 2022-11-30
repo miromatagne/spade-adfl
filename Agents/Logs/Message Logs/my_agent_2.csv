@@ -1,0 +1,11 @@
+time,send_or_recv,id,communicating_agent
+2022-11-27 15:08:34.716789,RECEIVE,e12a64f3-3d81-412f-b5b4-7017ea9fc09f,my_agent_1@gtirouter.dsic.upv.es/kyxr7Hyw
+2022-11-27 15:08:34.720426,SEND_RESPONSE,e12a64f3-3d81-412f-b5b4-7017ea9fc09f,my_agent_1@gtirouter.dsic.upv.es/kyxr7Hyw
+2022-11-27 15:09:16.522682,SEND,eaaea64c-33a9-4d24-80bd-dfa82efb065d,my_agent_1@gtirouter.dsic.upv.es
+2022-11-27 15:09:17.141472,RECEIVE_RESPONSE,eaaea64c-33a9-4d24-80bd-dfa82efb065d,my_agent_1@gtirouter.dsic.upv.es/kyxr7Hyw
+2022-11-27 15:09:27.574958,RECEIVE,aac48f4e-ab8d-49c5-96b5-a45a355e584d,my_agent_1@gtirouter.dsic.upv.es/kyxr7Hyw
+2022-11-27 15:09:27.575447,SEND_RESPONSE,aac48f4e-ab8d-49c5-96b5-a45a355e584d,my_agent_1@gtirouter.dsic.upv.es/kyxr7Hyw
+2022-11-27 15:10:07.293990,SEND,98af592b-11fa-4b54-b420-da3e4c5045f3,my_agent_1@gtirouter.dsic.upv.es
+2022-11-27 15:10:07.715587,RECEIVE_RESPONSE,98af592b-11fa-4b54-b420-da3e4c5045f3,my_agent_1@gtirouter.dsic.upv.es/kyxr7Hyw
+2022-11-27 15:10:18.357474,RECEIVE,4354c24a-a783-4e5c-8685-64ceedcaf576,my_agent_1@gtirouter.dsic.upv.es/kyxr7Hyw
+2022-11-27 15:10:18.358653,SEND_RESPONSE,4354c24a-a783-4e5c-8685-64ceedcaf576,my_agent_1@gtirouter.dsic.upv.es/kyxr7Hyw

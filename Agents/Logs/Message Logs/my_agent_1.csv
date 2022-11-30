@@ -1,0 +1,11 @@
+time,send_or_recv,id,communicating_agent
+2022-11-27 15:08:34.336622,SEND,e12a64f3-3d81-412f-b5b4-7017ea9fc09f,my_agent_2@gtirouter.dsic.upv.es
+2022-11-27 15:08:34.763712,RECEIVE_RESPONSE,e12a64f3-3d81-412f-b5b4-7017ea9fc09f,my_agent_2@gtirouter.dsic.upv.es/YOe5ZbGE
+2022-11-27 15:09:16.907882,RECEIVE,eaaea64c-33a9-4d24-80bd-dfa82efb065d,my_agent_2@gtirouter.dsic.upv.es/YOe5ZbGE
+2022-11-27 15:09:16.910968,SEND_RESPONSE,eaaea64c-33a9-4d24-80bd-dfa82efb065d,my_agent_2@gtirouter.dsic.upv.es/YOe5ZbGE
+2022-11-27 15:09:27.337299,SEND,aac48f4e-ab8d-49c5-96b5-a45a355e584d,my_agent_2@gtirouter.dsic.upv.es
+2022-11-27 15:09:27.789821,RECEIVE_RESPONSE,aac48f4e-ab8d-49c5-96b5-a45a355e584d,my_agent_2@gtirouter.dsic.upv.es/YOe5ZbGE
+2022-11-27 15:10:07.535263,RECEIVE,98af592b-11fa-4b54-b420-da3e4c5045f3,my_agent_2@gtirouter.dsic.upv.es/YOe5ZbGE
+2022-11-27 15:10:07.536076,SEND_RESPONSE,98af592b-11fa-4b54-b420-da3e4c5045f3,my_agent_2@gtirouter.dsic.upv.es/YOe5ZbGE
+2022-11-27 15:10:18.111564,SEND,4354c24a-a783-4e5c-8685-64ceedcaf576,my_agent_2@gtirouter.dsic.upv.es
+2022-11-27 15:10:18.539277,RECEIVE_RESPONSE,4354c24a-a783-4e5c-8685-64ceedcaf576,my_agent_2@gtirouter.dsic.upv.es/YOe5ZbGE
