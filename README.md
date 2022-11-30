@@ -12,8 +12,10 @@ A Docker image of the application was created and uploaded to Docker Hub. It is 
 
 ```bash
 docker pull miromatagne2103/tfm-spade-agents:latest
-docker run -it --net=host miromatagne2103/tfm-spade-agents:latest
+docker run -it --net=host miromatagne2103/tfm-spade-agents:latest --interface-port <port>
 ```
+
+where ```port```corresponds to the port where the user interface of the launcher agent will be available (at the adress ```127.0.0.1:<port>/agent```).
 
 ### Using the source code
 
